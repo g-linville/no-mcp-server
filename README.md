@@ -27,3 +27,9 @@ Then configure your MCP server:
   }
 }
 ```
+
+## FAQ
+
+### Why?
+
+No.
